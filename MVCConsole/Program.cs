@@ -1,5 +1,6 @@
 ﻿namespace MVCConsole
 {
+   // https://stackoverflow.com/questions/1108247/mvc-like-design-for-console-applications
     public interface IController
     {
         void RequestView(IView view);
